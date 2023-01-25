@@ -25,7 +25,7 @@ export default function Login() {
               alt="Your Company"
             />
             <h2 className="mt-6 text-center text-3xl font-bold tracking-tight text-gray-900">
-              Sign in to your account
+              Entrar com sua conta
             </h2>
             <p className="mt-2 text-center text-sm text-gray-600">
               Or{' '}
